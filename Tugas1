@@ -27,82 +27,82 @@
     <td style = "background-color : rgb(255, 0, 191)">07 - 08</td>
     <td></td>
     <td></td>
-    <td>Pengenalan Pola</td>
-    <td>Pemrograman Berbasis Platform P</td>
+    <td  style = "background-color: pink;">Pengenalan Pola</td>
+    <td  style = "background-color: pink;">Pemrograman Berbasis Platform P</td>
 </tr>
 <tr>
     <td style = "background-color: rgb(255, 0, 191)">08 - 09</td>
     <td></td>
-    <td>Algoritma Optimasi</td>
-    <td>Pengenalan Pola</td>
-    <td>Pemrograman Berbasis Platform P</td>
-    <td>Kewirausahaan</td>
+    <td  style = "background-color: pink;">Algoritma Optimasi</td>
+    <td  style = "background-color: pink;">Pengenalan Pola</td>
+    <td  style = "background-color: pink;">Pemrograman Berbasis Platform P</td>
+    <td  style = "background-color: pink;">Kewirausahaan</td>
 </tr>
 <tr>
     <td style = "background-color: rgb(255, 0, 191)">09 - 10</td>
     <td></td>
-    <td>Algoritma Optimasi</td>
-    <td>Pengenalan Pola</td>
-    <td>Pemrograman Berbasis Platform P</td>
-    <td>Kewirausahaan</td>
+    <td  style = "background-color: pink;">Algoritma Optimasi</td>
+    <td  style = "background-color: pink;">Pengenalan Pola</td>
+    <td  style = "background-color: pink;">Pemrograman Berbasis Platform P</td>
+    <td  style = "background-color: pink;">Kewirausahaan</td>
 </tr>
 <tr>
     <td style = "background-color: rgb(255, 0, 191)">10 = 11</td>
-    <td>Analisis dan Strategi Algoritma</td>
+    <td  style = "background-color: pink;">Analisis dan Strategi Algoritma</td>
     <td></td>
     <td></td>
-    <td>RPL P</td>
+    <td  style = "background-color: pink;">RPL P</td>
 </tr>
 <tr>
     <td style = "background-color: rgb(255, 0, 191)">11 - 12</td>
-    <td>Analisis dan Strategi Algoritma</td>
+    <td style = "background-color: pink;">Analisis dan Strategi Algoritma</td>
     <td></td>
     <td></td>
     <td>RPL P</td>
 </tr>
 <tr>
     <td style = "background-color: rgb(255, 0, 191)">12 - 13</td>
-    <td>Analisis dan Strategi Algoritma</td>
+    <td style = "background-color: pink;">Analisis dan Strategi Algoritma</td>
     <td></td>
     <td></td>
-    <td>RPL P</td>
+    <td style = "background-color: pink;">RPL P</td>
 </tr>
 <tr>
     <td style = "background-color: rgb(255, 0, 191)">13 - 14</td>
-    <td>Administrasi Basis Data</td>
-    <td>RPL</td>
-    <td>Pegenalan Pola P</td>
+    <td style = "background-color: pink;">Administrasi Basis Data</td>
+    <td style = "background-color: pink;">RPL</td>
+    <td style = "background-color: pink;">Pegenalan Pola P</td>
 </tr>
 <tr>
     <td style = "background-color: rgb(255, 0, 191)">14 - 15</td>
-    <td>Administrasi Basis Data</td>
-    <td>RPL</td>
-    <td>Pengenalan Pola P</td>
-    <td>Algoritma Optimasi P</td>
+    <td style = "background-color: pink;">Administrasi Basis Data</td>
+    <td style = "background-color: pink;">RPL</td>
+    <td style = "background-color: pink;">Pengenalan Pola P</td>
+    <td style = "background-color: pink;">Algoritma Optimasi P</td>
 </tr>
 <tr>
     <td style = "background-color: rgb(255, 0, 191)">15 - 16</td>
-    <td>Administrasi Basis Data</td>
-    <td>RPL</td>
-    <td> Pengenalan Pola P</td>
-    <td>Algoritma Optimasi P</td>
+    <td style = "background-color: pink;">Administrasi Basis Data</td>
+    <td style = "background-color: pink;">RPL</td>
+    <td style = "background-color: pink;"> Pengenalan Pola P</td>
+    <td style = "background-color: pink;">Algoritma Optimasi P</td>
 </tr>
 <tr>
     <td style = "background-color: rgb(255, 0, 191)">16 - 17</td>
-    <td>Pemrograman Berbasis Platform</td>
+    <td style = "background-color: pink;">Pemrograman Berbasis Platform</td>
     <td></td>
     <td></td>
-    <td>Algoritma Optimasi P</td>
+    <td style = "background-color: pink;">Algoritma Optimasi P</td>
 </tr>
 <tr>
     <td style = "background-color: rgb(255, 0, 191)">17 - 18</td>
-    <td>Pemrograman Berbasis Platform</td>
+    <td style = "background-color: pink;">Pemrograman Berbasis Platform</td>
 </tr>
 </table>
 
 <p>Nama  : Fransiska Aloysia Putri Prasetya</p>
 <p>NIM   : 205314016</p>
-<p>Kelas : Pemrograman Berbasis Platform A</p> 
+<p>Kelas : Pemrograman Berbasis Platform</p> 
 
 </head>
 </body>
