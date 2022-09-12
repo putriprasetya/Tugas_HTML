@@ -24,14 +24,14 @@
         <th>Jumat</th>
     </tr>
 <tr>
-    <td>07 - 08</td>
+    <td style = "background-color : rgb(255, 0, 191)">07 - 08</td>
     <td></td>
     <td></td>
     <td>Pengenalan Pola</td>
     <td>Pemrograman Berbasis Platform P</td>
 </tr>
 <tr>
-    <td>08 - 09</td>
+    <td style = "background-color: rgb(255, 0, 191)">08 - 09</td>
     <td></td>
     <td>Algoritma Optimasi</td>
     <td>Pengenalan Pola</td>
@@ -39,7 +39,7 @@
     <td>Kewirausahaan</td>
 </tr>
 <tr>
-    <td>09 - 10</td>
+    <td style = "background-color: rgb(255, 0, 191)">09 - 10</td>
     <td></td>
     <td>Algoritma Optimasi</td>
     <td>Pengenalan Pola</td>
@@ -47,55 +47,55 @@
     <td>Kewirausahaan</td>
 </tr>
 <tr>
-    <td>10 = 11</td>
+    <td style = "background-color: rgb(255, 0, 191)">10 = 11</td>
     <td>Analisis dan Strategi Algoritma</td>
     <td></td>
     <td></td>
     <td>RPL P</td>
 </tr>
 <tr>
-    <td>11 - 12</td>
+    <td style = "background-color: rgb(255, 0, 191)">11 - 12</td>
     <td>Analisis dan Strategi Algoritma</td>
     <td></td>
     <td></td>
     <td>RPL P</td>
 </tr>
 <tr>
-    <td>12 - 13</td>
+    <td style = "background-color: rgb(255, 0, 191)">12 - 13</td>
     <td>Analisis dan Strategi Algoritma</td>
     <td></td>
     <td></td>
     <td>RPL P</td>
 </tr>
 <tr>
-    <td>13 - 14</td>
+    <td style = "background-color: rgb(255, 0, 191)">13 - 14</td>
     <td>Administrasi Basis Data</td>
     <td>RPL</td>
     <td>Pegenalan Pola P</td>
 </tr>
 <tr>
-    <td>14 - 15</td>
+    <td style = "background-color: rgb(255, 0, 191)">14 - 15</td>
     <td>Administrasi Basis Data</td>
     <td>RPL</td>
     <td>Pengenalan Pola P</td>
     <td>Algoritma Optimasi P</td>
 </tr>
 <tr>
-    <td>15 - 16</td>
+    <td style = "background-color: rgb(255, 0, 191)">15 - 16</td>
     <td>Administrasi Basis Data</td>
     <td>RPL</td>
     <td> Pengenalan Pola P</td>
     <td>Algoritma Optimasi P</td>
 </tr>
 <tr>
-    <td>16 - 17</td>
+    <td style = "background-color: rgb(255, 0, 191)">16 - 17</td>
     <td>Pemrograman Berbasis Platform</td>
     <td></td>
     <td></td>
     <td>Algoritma Optimasi P</td>
 </tr>
 <tr>
-    <td>17 - 18</td>
+    <td style = "background-color: rgb(255, 0, 191)">17 - 18</td>
     <td>Pemrograman Berbasis Platform</td>
 </tr>
 </table>
