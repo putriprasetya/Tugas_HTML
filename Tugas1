@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        table, th,, td{
+            border: 1px solid white;
+        }
+        td{
+            background-color: white;
+        }
+        th{
+            background-color: rgb(255, 0, 191);
+        }
+    </style>
+<body>
+    <h2>Jadwal Kuliah Semester 5</h2>
+<table style="width: 100%">
+    <tr>
+        <th>Waktu</th>
+        <th>Senin</th>
+        <th>Selasa</th>
+        <th>Rabu</th>
+        <th>Kamis</th>
+        <th>Jumat</th>
+    </tr>
+<tr>
+    <td>07 - 08</td>
+    <td></td>
+    <td></td>
+    <td>Pengenalan Pola</td>
+    <td>Pemrograman Berbasis Platform P</td>
+</tr>
+<tr>
+    <td>08 - 09</td>
+    <td></td>
+    <td>Algoritma Optimasi</td>
+    <td>Pengenalan Pola</td>
+    <td>Pemrograman Berbasis Platform P</td>
+    <td>Kewirausahaan</td>
+</tr>
+<tr>
+    <td>09 - 10</td>
+    <td></td>
+    <td>Algoritma Optimasi</td>
+    <td>Pengenalan Pola</td>
+    <td>Pemrograman Berbasis Platform P</td>
+    <td>Kewirausahaan</td>
+</tr>
+<tr>
+    <td>10 = 11</td>
+    <td>Analisis dan Strategi Algoritma</td>
+    <td></td>
+    <td></td>
+    <td>RPL P</td>
+</tr>
+<tr>
+    <td>11 - 12</td>
+    <td>Analisis dan Strategi Algoritma</td>
+    <td></td>
+    <td></td>
+    <td>RPL P</td>
+</tr>
+<tr>
+    <td>12 - 13</td>
+    <td>Analisis dan Strategi Algoritma</td>
+    <td></td>
+    <td></td>
+    <td>RPL P</td>
+</tr>
+<tr>
+    <td>13 - 14</td>
+    <td>Administrasi Basis Data</td>
+    <td>RPL</td>
+    <td>Pegenalan Pola P</td>
+</tr>
+<tr>
+    <td>14 - 15</td>
+    <td>Administrasi Basis Data</td>
+    <td>RPL</td>
+    <td>Pengenalan Pola P</td>
+    <td>Algoritma Optimasi P</td>
+</tr>
+<tr>
+    <td>15 - 16</td>
+    <td>Administrasi Basis Data</td>
+    <td>RPL</td>
+    <td> Pengenalan Pola P</td>
+    <td>Algoritma Optimasi P</td>
+</tr>
+<tr>
+    <td>16 - 17</td>
+    <td>Pemrograman Berbasis Platform</td>
+    <td></td>
+    <td></td>
+    <td>Algoritma Optimasi P</td>
+</tr>
+<tr>
+    <td>17 - 18</td>
+    <td>Pemrograman Berbasis Platform</td>
+</tr>
+</table>
+
+<p>Nama  : Fransiska Aloysia Putri Prasetya</p>
+<p>NIM   : 205314016</p>
+<p>Kelas : Pemrograman Berbasis Platform A</p> 
+
+</head>
+</body>
+</html>
